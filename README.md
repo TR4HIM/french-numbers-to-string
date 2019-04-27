@@ -1,2 +1,2 @@
-# french-numbers-to-string
-Convert numbers to string French numbers
+# French Numbers
+A small JavaScript plugin to convert numbers to string French numbers
